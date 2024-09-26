@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**juliana1B/juliana1B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu sou a Juliana Galvão
 
-Here are some ideas to get you started:
+Estou estudando no Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou desenvolvendo nas linguagem de JavaScript
+
+Utilizo este espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### voce enta em contato comigo 📫
+
+juliana.galvao.ribeiro@escola.pr.gov.br
